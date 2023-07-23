@@ -2,4 +2,5 @@
 Python CR7PT3R
 
 pip install hashlib
+
 pip install colorama
