@@ -1,5 +1,5 @@
 # CR7PT3R
-Python CR7PT3R
+Python Basic Crypter
 
 pip install hashlib
 
